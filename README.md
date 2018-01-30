@@ -8,4 +8,4 @@ Running the game requires Python 3 (tested with 3.6.3) and PyQt5.
 
 ## Running the game
 
-The game can be started by running `main.py`. Some unit tests are also provided which can be started from `tests.py`.
+The game can be started by running `main.py`. Some unit tests are also provided which can be started from `test.py`.
